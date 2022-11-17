@@ -1,0 +1,33 @@
+body {
+    background-color: #343434;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica;
+}
+.home-box {
+    background-color: goldenrod;
+    width: 50%;
+    min-height: 500px;
+    min-width: 250px;
+}
+
+.quiz-box {
+    background-color: lightcoral;
+    width: 50%;
+    min-height: 500px;
+    min-width: 250px;
+}
+
+.start-btn {
+    background-color: aquamarine;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+}
+.start-btn:hover {
+    background-color: bisque;
+    padding: 12px;
+}
